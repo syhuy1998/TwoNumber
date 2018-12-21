@@ -7,12 +7,12 @@ I) Download software:
 4. Click MyBigNumber.exe
 II) This code can be only complied in console (CMD):
 
- Open cmd and direct into this folder
-1.Run:
-2. javac MyBigNumberMain.java
-3. java MyBigNumberMain
-4. example:
-5. javac MyBigNumberMain.java
-6. java MyBigNumberMain
-7. Nhap so thu 1: 3
-8. Nhap so thu 2: 5
+1.Open cmd and direct into this folder
+2.Run:
+3. javac MyBigNumberMain.java
+4. java MyBigNumberMain
+5. example:
+6. javac MyBigNumberMain.java
+7. java MyBigNumberMain
+8. Nhap so thu 1: 3
+9. Nhap so thu 2: 5
