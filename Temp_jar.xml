@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Temp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Temp_jar</output-path>
+    <root id="archive" name="Temp.jar">
+      <element id="module-output" name="Temp" />
+    </root>
+  </artifact>
+</component>
