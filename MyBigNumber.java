@@ -16,7 +16,7 @@ public class MyBigNumber {
      * Sum two string function.
      */
 
-    public String sum( String s1,  String s2) {
+    public String sum(final String s1, final String s2) {
 
         String result = "";             // chuỗi chứa kết quả
         String stepMsg = "";         // chuỗi chứa các bước trong quá trình cộng
